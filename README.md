@@ -1,5 +1,7 @@
 # Hi, I'm Stu 👋
 
+<img src="skills-card.svg" width="495" alt="What I work with">
+
 System administrator focused on server optimization and management,
 with a background in Blue Team / defensive security and networking.
 
