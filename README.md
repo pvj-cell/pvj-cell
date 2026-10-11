@@ -1,5 +1,7 @@
 # Hi, I'm Stu 👋
 
+-# junior
+
 System administrator focused on server optimization and management,
 with a background in Blue Team / defensive security and networking.
 
