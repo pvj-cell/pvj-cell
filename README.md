@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stu 👋
 
-<!--
-**pvj-cell/pvj-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System administrator focused on server optimization and management,
+with a background in Blue Team / defensive security and networking.
 
-Here are some ideas to get you started:
+## What I work with
+- Linux servers: administration, optimization, automation
+- Defensive security (Blue Team) and networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Rust
+- Go
+
+## Languages
+English, Ukrainian, Russian
+
+## Contact
+Discord: anterwolt
